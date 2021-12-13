@@ -1,0 +1,118 @@
+/* Add 10 component of bootstrap  */
+
+/* .bodyPad {
+  padding-left: 30px;
+  padding-right: 30px;
+} */
+
+.cont {
+  background: lightgrey;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.menuBar {
+  font-weight: 600;
+  font-size: 18px;
+  color: black;
+  margin-right: 20px;
+  float: left;
+}
+
+.centerMenu {
+  margin: 0 auto;
+}
+
+.secs {
+  background: gainsboro;
+}
+
+.secondSection {
+  width: 100%;
+}
+
+.blue {
+  width: 20px;
+  background: blue;
+}
+
+.lightBlue {
+  width: 20%;
+  background: blueviolet;
+}
+
+.welcome {
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.welcome > p {
+  font-size: 20px;
+  font-weight: 500;
+  color: gray;
+}
+
+.cardRow {
+  padding: 50px;
+}
+
+.col1 {
+  float: right;
+}
+
+.card-body > h5 {
+  font-size: 30px;
+  font-weight: 500;
+}
+.card1 {
+  background: blueviolet;
+  color: aliceblue;
+  border-radius: 10px;
+  box-shadow: 2px 2px #888888;
+  text-align: center;
+  width: 220px;
+  height: 130px;
+}
+
+.card2 {
+  background: darkblue;
+  color: aliceblue;
+  border-radius: 10px;
+  box-shadow: 2px 2px #888888;
+  text-align: center;
+  width: 220px;
+  height: 130px;
+}
+
+.card3 {
+  background: darkslateblue;
+  color: aliceblue;
+  border-radius: 10px;
+  box-shadow: 2px 2px #888888;
+  text-align: center;
+  width: 220px;
+  height: 130px;
+}
+
+.card4 {
+  background: dodgerblue;
+  color: aliceblue;
+  border-radius: 10px;
+  box-shadow: 2px 2px #888888;
+  text-align: center;
+  width: 220px;
+  height: 130px;
+}
+
+.card5 {
+  background: green;
+  color: aliceblue;
+  border-radius: 10px;
+  box-shadow: 2px 2px #888888;
+  text-align: center;
+  width: 220px;
+  height: 130px;
+}
+
+
